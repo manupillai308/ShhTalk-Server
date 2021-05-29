@@ -1,0 +1,24 @@
+{
+  "name": "shhtalk-server",
+  "version": "1.0.0",
+  "description": "The online chat server for shhTalk-online",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manupillai308",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.1",
+    "socket.io-client": "^4.1.1"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.3",
+    "utf-8-validate": "^5.0.5"
+  },
+  "engines": {
+    "node": "15.x"
+  }
+}

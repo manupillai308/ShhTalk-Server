@@ -1,0 +1,19 @@
+{
+    "app":{
+        "port": 8000
+    },
+    "chat":{
+        "events":{
+            "NEWMSG":"new message",
+            "JOINROOM":"join room",
+            "PRIVATEMSG": "private message",
+            "CREATEROOM": "create room",
+            "ROOMID": "room id",
+            "JOINERROR": "join error"
+        },
+        "message_types":{
+            "generic": "generic message",
+            "private": "private message"
+        }
+    }
+}
