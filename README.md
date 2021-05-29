@@ -16,7 +16,9 @@ In a nutshell, **ShhTalk-Server** is a general purpose minimal production-ready 
 
 ## For Developers
 
-A complete understanding of the working and implementation can be found from this [blog](https://blog.logrocket.com/working-chat-server-in-node/) post as mentioned earlier. The only **dependency** to this codebase is [Socket-IO](https://socket.io/docs/v4/server-installation/).
+A complete understanding of the working and implementation can be found from this [blog](https://blog.logrocket.com/working-chat-server-in-node/) post as mentioned earlier. The **dependencies** to this codebase are:
+* [Socket-IO](https://socket.io/docs/v4/server-installation/)
+* [Config](https://www.npmjs.com/package/config)
 
 ## License
 
